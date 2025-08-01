@@ -30,7 +30,7 @@
 ### 📫 Contact Me
 
 - GitHub: [kazuke-cva](https://github.com/kazuke-cva)
-- Email: *youremail@example.com* (← bạn thay bằng email thật nếu muốn)
+- Email: *phamtruongthinh07092000@gmail.com*
 - Blog (nếu có): *yourblog.com*
 
 ---
