@@ -30,7 +30,7 @@
 ### 📫 Contact Me
 
 - GitHub: [kazuke-cva](https://github.com/kazuke-cva)
-- Email: *phamtruongthinh07092000@gmail.com*
+- Email: *chidaianime3@gmail.com*
 - Blog (nếu có): *yourblog.com*
 
 ---
