@@ -31,7 +31,7 @@
 
 - GitHub: [kazuke-cva](https://github.com/kazuke-cva)
 - Email: *chidaianime3@gmail.com*
-- Blog (nếu có): *yourblog.com*
+- Blog :
 
 ---
 
