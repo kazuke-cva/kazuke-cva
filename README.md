@@ -24,6 +24,7 @@
 - 🔬 `exploit-binary/`: Structured binary exploitation labs
 - 📦 `ctf-writeups/`: Writeups from CTF challenges (heap, format string, etc.)
 - 🔐 `pentest-tools/`: Tools and scripts for penetration testing
+- `exploit-kernel/`: Exploit kernel basic (BoF kernel, overwrite slab, ...)
 
 ---
 
